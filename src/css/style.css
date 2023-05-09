@@ -1,0 +1,13 @@
+button {
+  padding: 1em 1.5rem;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  cursor: pointer;
+}
+
+.title {
+  padding: 1em 1.5rem;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  cursor: pointer;
+}

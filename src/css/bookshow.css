@@ -1,0 +1,15 @@
+.book-list {
+  display: flex;
+  margin-top: 70px;
+}
+
+button {
+  padding: 1em 1.5rem;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  cursor: pointer;
+}
+
+.images {
+  margin: 10px;
+}
